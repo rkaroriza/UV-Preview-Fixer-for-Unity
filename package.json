@@ -1,0 +1,23 @@
+{
+  "name": "com.antigravity.uvpreviewandfixer",
+  "version": "1.0.0",
+  "displayName": "UV Map Preview & Fixer",
+  "description": "A comprehensive, high-performance Unity Editor tool to preview, inspect, diagnose, and fix UV map issues directly in the Inspector or dedicated dockable window with CAD-like navigation, real-time holographic ghost dragging, Blender-style L hotkey, and 3D scene view synchronization.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "uv",
+    "mesh",
+    "texture",
+    "unwrap",
+    "fixer",
+    "inspector",
+    "tools",
+    "editor"
+  ],
+  "author": {
+    "name": "DeepMind Antigravity",
+    "email": "antigravity@google.com"
+  },
+  "category": "Tools/Mesh"
+}
